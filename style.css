@@ -1,0 +1,14 @@
+.header{
+    border:solid rgb(224, 89, 89);
+    background-color: rgb(224, 89, 89);
+    color:rgb(0, 0, 0);
+}
+h2{
+    text-align: center;
+    border: solid rgb(150, 248, 232);
+    background-color: rgb(150, 248, 232);
+}
+body{
+    background-color: rgb(241, 241, 241);
+    border:solid black;
+}
