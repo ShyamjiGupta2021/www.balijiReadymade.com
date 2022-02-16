@@ -1,14 +1,40 @@
 .header{
-    border:solid rgb(224, 89, 89);
-    background-color: rgb(224, 89, 89);
-    color:rgb(0, 0, 0);
-}
-h2{
-    text-align: center;
-    border: solid rgb(150, 248, 232);
-    background-color: rgb(150, 248, 232);
+    color:black;
+    text-align: justify;
+    display: flex;
 }
 body{
-    background-color: rgb(241, 241, 241);
+    background-color:#ffffff);
    
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: justify;
+  
+}
+.footer img{
+    border-radius: 50px;
+}
+.footer{
+    display:flex; 
+    flex-wrap: wrap; 
+    justify-content: center;  
+    background-color:rgb(255, 250, 204) ;
+}
+.languages{
+    border-radius: 20px;
+    background-color: #eeeeee;
+    /* modify margin and padding here*/
+    padding: 30px;
+    margin: 20px;
+    width:310px;
+    font-family: fantasy;
+}
+h3{
+    text-align: center;   
+}
+h2{
+    text-align:left;
 }
