@@ -1,0 +1,38 @@
+.header{
+    color: blue;
+    text-align: center;
+    display: flex;
+}
+body{
+    background-color:rgb(255, 250, 204);
+   
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    text-align: justify;
+  
+}
+.grid img{
+    justify-content:space-evenly;
+}
+.languages{
+    border-radius: 30px;
+    background-color: #eeeeee;
+    /* modify margin and padding here*/
+    padding: 30px;
+    margin: 20px;
+    width:410px;
+    font-family: fantasy;
+}
+.footer img{
+    border-radius: 50px;
+}
+.footer{
+    display:flex; 
+    flex-wrap: wrap; 
+    justify-content:center;
+    background-color: aquamarine; 
+    border:solid black ; 
+}
