@@ -33,8 +33,31 @@ body{
     font-family: fantasy;
 }
 h3{
-    text-align: center;   
+    text-align: left;   
+}
+h2 img{
+    text-align:left;
+    border-radius: 50px;
 }
 h2{
-    text-align:left;
+    background-color: rgb(248, 170, 147);
+    /* modify margin and padding here*/
+    padding: 30px;
+    margin:0px;
+    width:1500px;
+    font-family: fantasy;
+    display:flex; 
+    flex-wrap: wrap;
+}
+h3{
+    background-color: #99c1e2;
+    /* modify margin and padding here*/
+    padding: 30px;
+    margin: 0px;
+    width:1500px;
+    font-family: fantasy;
+    display:flex; 
+    flex-wrap: wrap;
+   
+
 }

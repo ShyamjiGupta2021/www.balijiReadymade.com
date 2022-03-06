@@ -1,0 +1,9 @@
+.h2{
+    border-radius: 30px;
+    background-color: #dd4c4c;
+    /* modify margin and padding here*/
+    padding: 30px;
+    margin: 20px;
+    width:410px;
+    font-family: fantasy;
+}
