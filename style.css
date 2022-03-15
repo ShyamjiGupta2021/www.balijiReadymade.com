@@ -1,7 +1,12 @@
 .header{
-    color:black;
+    color:rgb(255, 0, 0);
     text-align: justify;
     display: flex;
+}
+.Image{
+    text-align: center;
+    border: solid black;
+    background-color: rgb(255, 255, 238);
 }
 body{
     background-color:(#ffffff);
@@ -41,23 +46,20 @@ h2 img{
 }
 h2{
     background-color: rgb(248, 170, 147);
-    /* modify margin and padding here*/
-    padding: 30px;
-    margin:0px;
-    width:1500px;
-    font-family: fantasy;
+    margin: 0px;
+    padding: 10px;
     display:flex; 
     flex-wrap: wrap;
 }
 h3{
     background-color: #99c1e2;
-    /* modify margin and padding here*/
-    padding: 30px;
     margin: 0px;
-    width:1500px;
-    font-family: fantasy;
+    padding: 10px;
     display:flex; 
     flex-wrap: wrap;
    
 
+}
+.body{
+     justify-content: center;
 }
